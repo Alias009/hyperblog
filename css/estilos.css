@@ -7,3 +7,14 @@ body {
     display: flex;
     flex-direction: column;
 }
+.container nav {
+    color: white;
+    font-weight: bold;
+    background-color: darkmagenta;
+    border-radius: 10px;
+    
+
+}
+.container h1 {
+    font-size: 16px;
+}
