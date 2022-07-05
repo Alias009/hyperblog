@@ -1,4 +1,9 @@
 body {
-    color: fuchsia;
+    background-color: blanchedalmond;
     text-align: center;
+}
+.container {
+    color: brown;
+    display: flex;
+    flex-direction: column;
 }
