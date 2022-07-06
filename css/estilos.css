@@ -1,0 +1,39 @@
+body {
+    background-color: palegoldenrod;
+    text-align: center;
+}
+
+.container {
+    color: brown;
+    display: flex;
+    flex-direction: column;
+}
+.container nav {
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+    border-radius: 10px;
+    
+
+}
+ul {
+    background-color: gray;
+    border-radius: 8px;
+    margin: 24px;
+    width: 300px;
+    align-self: center;
+}
+ul > li {
+    align-self: center;
+    list-style: none;
+    padding: 20px;
+    margin-right: 10%;
+
+    
+}
+
+.kity > img {
+    width: 300px;
+    border-radius: 50%;
+    
+}

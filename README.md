@@ -1,2 +1,2 @@
 # hyperblog
-Creango un blog para curso de Git y GitHub
+Creando un blog para curso de Git y GitHub
