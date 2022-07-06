@@ -1,5 +1,5 @@
 body {
-    background-color: blanchedalmond;
+    background-color: palegoldenrod;
     text-align: center;
 }
 
@@ -11,10 +11,25 @@ body {
 .container nav {
     color: white;
     font-weight: bold;
-    background-color: darkmagenta;
+    background-color: blue;
     border-radius: 10px;
     
 
+}
+ul {
+    background-color: gray;
+    border-radius: 8px;
+    margin: 24px;
+    width: 300px;
+    align-self: center;
+}
+ul > li {
+    align-self: center;
+    list-style: none;
+    padding: 20px;
+    margin-right: 10%;
+
+    
 }
 
 .kity > img {
