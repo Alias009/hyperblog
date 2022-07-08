@@ -1,11 +1,12 @@
 body {
-    background-color: palegoldenrod;
+    background-color: rgb(205, 198, 119);
     text-align: center;
     margin: 30px 150px;
+    
 }
 
 .container {
-    color: brown;
+    color: rgb(218, 77, 77);
     display: flex;
     flex-direction: column;
     
@@ -13,11 +14,10 @@ body {
 .container nav {
     color: white;
     font-weight: bold;
-    background-color: rgb(158, 158, 245);
     border-radius: 10px;
     display: flex;
     justify-content: center;
-
+    background-image: url("https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=600");
 }
 
 .container nav img {
@@ -49,5 +49,5 @@ ul > li {
 footer {
     margin: 20px;
     font-weight: bold;
-    color: rgb(180, 95, 95);
+    color: rgb(77, 62, 62);
 }
