@@ -1,1 +1,1 @@
-juan cortes edad 32. cocinero, deportista, viajero.
+Juan . cocinero, deportista, viajero.
